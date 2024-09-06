@@ -1,0 +1,11 @@
+title:
+     kpop_band
+
+about:
+     Korean popular music, is a form of popular music originating in South Korea as part of South Korean culture.
+
+description:
+       Originating in South Korea, K-pop draws influence from a range of genres like pop, experimental, rock, hip-hop, R&B, electronic, and dance.
+       We've compiled a list of the current best K-pop groups in this article. Also, we have listed the most popular K-pop groups of all time.
+link:
+https://www.figma.com/proto/QE6ofzFszD3fKiN31R2Bdx/Untitled?node-id=1-2
